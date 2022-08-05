@@ -1,0 +1,14 @@
+C:\Users\willi\Desktop\practica tareapg\ejercicio1tareapg\ejercicio1tareapg\bin\Debug\netcoreapp3.1\ejercicio1tareapg.exe
+C:\Users\willi\Desktop\practica tareapg\ejercicio1tareapg\ejercicio1tareapg\bin\Debug\netcoreapp3.1\ejercicio1tareapg.deps.json
+C:\Users\willi\Desktop\practica tareapg\ejercicio1tareapg\ejercicio1tareapg\bin\Debug\netcoreapp3.1\ejercicio1tareapg.runtimeconfig.json
+C:\Users\willi\Desktop\practica tareapg\ejercicio1tareapg\ejercicio1tareapg\bin\Debug\netcoreapp3.1\ejercicio1tareapg.runtimeconfig.dev.json
+C:\Users\willi\Desktop\practica tareapg\ejercicio1tareapg\ejercicio1tareapg\bin\Debug\netcoreapp3.1\ejercicio1tareapg.dll
+C:\Users\willi\Desktop\practica tareapg\ejercicio1tareapg\ejercicio1tareapg\bin\Debug\netcoreapp3.1\ejercicio1tareapg.pdb
+C:\Users\willi\Desktop\practica tareapg\ejercicio1tareapg\ejercicio1tareapg\obj\Debug\netcoreapp3.1\ejercicio1tareapg.csproj.AssemblyReference.cache
+C:\Users\willi\Desktop\practica tareapg\ejercicio1tareapg\ejercicio1tareapg\obj\Debug\netcoreapp3.1\ejercicio1tareapg.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\willi\Desktop\practica tareapg\ejercicio1tareapg\ejercicio1tareapg\obj\Debug\netcoreapp3.1\ejercicio1tareapg.AssemblyInfoInputs.cache
+C:\Users\willi\Desktop\practica tareapg\ejercicio1tareapg\ejercicio1tareapg\obj\Debug\netcoreapp3.1\ejercicio1tareapg.AssemblyInfo.cs
+C:\Users\willi\Desktop\practica tareapg\ejercicio1tareapg\ejercicio1tareapg\obj\Debug\netcoreapp3.1\ejercicio1tareapg.csproj.CoreCompileInputs.cache
+C:\Users\willi\Desktop\practica tareapg\ejercicio1tareapg\ejercicio1tareapg\obj\Debug\netcoreapp3.1\ejercicio1tareapg.dll
+C:\Users\willi\Desktop\practica tareapg\ejercicio1tareapg\ejercicio1tareapg\obj\Debug\netcoreapp3.1\ejercicio1tareapg.pdb
+C:\Users\willi\Desktop\practica tareapg\ejercicio1tareapg\ejercicio1tareapg\obj\Debug\netcoreapp3.1\ejercicio1tareapg.genruntimeconfig.cache
